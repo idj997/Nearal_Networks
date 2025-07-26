@@ -1,5 +1,3 @@
-Certainly! Below is a professional README.md file that covers the three notebook files you've attached: **My_Demo_Architecture.ipynb**, **02_ResNet_Demo.ipynb**, and **02_LeNet_Demo.ipynb**. This README is aimed at someone familiar with deep learning and PyTorch, who wants to understand, run, or modify the demos.
-
 # Deep Learning CNN Demo Notebooks
 
 This repository contains PyTorch-based Jupyter Notebooks demonstrating and comparing three convolutional neural network (CNN) architectures on popular image classification datasets:
@@ -115,8 +113,6 @@ Distributed under the MIT License (see [LICENSE](LICENSE) file if provided; othe
   - **LeNet-5**: [Yann LeCun et al., 1998](http://yann.lecun.com/exdb/lenet/)
   - **ResNet**: [Kaiming He et al., 2015](https://arxiv.org/abs/1512.03385)
 - Fashion-MNIST and CIFAR-10 datasets
-
-Feel free to adapt and extend these demos for your own educational or research purposes!
 
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/26366238/11c1c6eb-2b65-45e3-909c-e0b689f6eaac/My_Demo_Architecture.ipynb
 [2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/26366238/3644e8a7-ac0c-4ab9-bfe8-55e95e91a4de/02_ResNet_Demo.ipynb
